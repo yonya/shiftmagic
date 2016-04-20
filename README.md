@@ -1,5 +1,5 @@
 # shiftmagic
-Sistema de Gestion de Turnos
+Sistema de Gestión de Turnos
 
 Elaborado por Maria Jose Lamas
 -------------------------------------
