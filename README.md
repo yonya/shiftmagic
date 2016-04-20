@@ -1,7 +1,7 @@
 # shiftmagic
 Sistema de Gestion de Turnos
 
-Elaborado por yonya
+Elaborado por Maria Jose Lamas
 -------------------------------------
 
 Version 1.0.0.
